@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+body{
+    padding: 0;
+    top: 0;
+    left: 0;
+    /* font-family: 'Playfair Display', serif; */
+    font-family: 'Raleway', sans-serif;
+}
+
+.standard-more-details-btn{
+    display: flex;
+    align-items: center;
+}
+.standard-more-details-btn p{
+    margin-left: 10px;
+}
+.standard-more-details-icon{
+    padding: 15px;
+    border-radius: 50px;
+    border: 1px solid #D5A368;
+    cursor: pointer;
+}
